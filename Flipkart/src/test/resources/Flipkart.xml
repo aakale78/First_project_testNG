@@ -1,0 +1,9 @@
+
+<!DOCTYPE suite SYSTEM "Flipkart.dtd">
+<suite name= "Flipkart">
+	<test name="Flipkart Functional Testing">
+		<classes>
+			<class name="functionalTesting.FlipkartTesting"></class>
+		</classes>
+	</test>
+</suite>
